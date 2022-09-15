@@ -1,0 +1,33 @@
+body{
+    background-color: #D9A566;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+#img img{
+    width: 525px;
+    height: 400px;
+    float: left;
+    margin-left: 20px;
+}
+#texto{
+    float: left;
+}
+#texto ul li{
+    list-style: none;
+}
+#texto ol{
+    font-size: 22px;
+}
+#texto ul{
+    font-size: 18px;
+}
+#lidireita1{
+    text-indent: 30px;
+}
+#lidireita2{
+    text-indent: 30px;
+}
+#lidireita3{
+    text-indent: 30px;
+}
